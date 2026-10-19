@@ -7,7 +7,8 @@ Identity is de grens waar veilige AI begint.
 
 **Identity, in productie bij de overheid.** IAM sinds 2011, federaties sinds 2015: voor een grote
 bank, pensioenuitvoerders en de overheid, de laatste bijna acht jaar voor de vier grote gemeenten.
-Entra ID, Keycloak, SAML en OIDC, SCIM, Conditional Access, PIM, ADFS, MIM, Terraform.
+Entra ID, Keycloak (ingericht, cutover in voorbereiding), SAML en OIDC, SCIM, Conditional Access,
+PIM, ADFS, MIM, Terraform.
 
 **AI-engineering, als vakinhoud.** Agents met tool calling en MCP, RAG met vector search,
 evaluatie en guardrails. Python, LangGraph, LangChain, Azure AI Foundry, Azure OpenAI, Azure AI
