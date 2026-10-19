@@ -22,7 +22,8 @@ Drie publieke demo's trekken dat identitywerk door naar AI-agents. Elke demo dra
 **Begrensd: [agent-mandaat](https://github.com/oomny-nl/agent-mandaat).** Een agent met een eigen
 identiteit krijgt per taak een mandaat van één medewerker, en per actie een token van 60 seconden
 voor één tool (OAuth 2.0 Token Exchange en DPoP op Keycloak). Een gekaapte agent komt niet buiten
-dat mandaat.
+dat mandaat. Er is ook een Entra Agent ID-variant in Terraform, in een lab-tenant uitgerold en
+gemeten.
 
 <a href="https://github.com/oomny-nl/agent-mandaat"><img src="https://raw.githubusercontent.com/oomny-nl/agent-mandaat/main/docs/beeld/demo.gif" alt="Demo agent-mandaat: toegestaan, buiten mandaat geweigerd, ingetrokken en noodstop" width="640"></a>
 
